@@ -1,0 +1,83 @@
+1. extract images from video 
+
+2. Read video and store the output video with resolution 240*340 and with fps of 5
+
+3. Draw line,circle,rectangle,polygon on images and videos
+
+4. Mask in operations on images and video
+
+5. Mask out operations on images and video
+
+6. Motion detection on videos and images
+
+7. Motion detection with masking operations 
+
+8. Draw countors/rectangles on motion detection on video
+
+9. Object detection on videos and images
+
+10. Difference between two frames/images and videos
+
+11. fastapi (less importance)
+
+
+
+
+
+API----serialization and de-serialization
+
+python---file concept they are picking and un-pickling
+ 
+pickling---one object i want to store to the file permentely is called pickling
+
+un-pickling---  from the file i have to read the data to the object back is called un-pickling
+
+clinet and server
+
+clinet is browser
+server is facebook 
+
+
+clinet understandble language is there that is http
+
+common message format is json .olden days is XML
+
+
+API---Application programming interface
+web API/web Services
+
+API----it is providing communication between the two software compounds
+
+simple-way--methods of communication between software components
+
+
+end-user                          application(app Developers)
+
+java application
+
+mobile
+
+python (test.py) 
+
+
+web-API
+--------------
+bookmy show
+
+payment gayway----Web API
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+web API/web services
+------------------------
+
